@@ -21,6 +21,29 @@ Opciones del Menú
 8. **Salir**: Finaliza la ejecución del programa.
 
 
+Main
+Es el punto de entrada del programa. Contiene un menú interactivo que permite al usuario trabajar con la lista enlazada: agregar, eliminar, buscar, imprimir, etc.
+
+Node
+Representa un nodo individual de la lista enlazada
+data: el valor que almacena el nodo.
+next: una referencia al siguiente nodo en la lista.
+
+LinkedList
+Maneja toda la lógica de la lista enlazada simple, incluyendo operaciones de inserción, eliminación, búsqueda, impresión e inversión.
+add(int data)
+Agrega un nuevo nodo al final de la lista.
+addFirst(int data)
+Agrega un nuevo nodo al inicio de la lista.
+remove(int data)	
+Elimina el primer nodo que contiene el valor indicado.
+printList()	
+Muestra todos los elementos de la lista en orden, de principio a fin.
+reverse()	
+Invierte el orden de los nodos en la lista.
+contains(int value)	
+Verifica si un valor existe en la lista.
+
 
 Notas Adicionales
 
