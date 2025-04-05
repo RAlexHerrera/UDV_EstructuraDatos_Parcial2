@@ -50,3 +50,7 @@ Notas Adicionales
 - El programa incluye validaciones para evitar errores en la ejecución.
 - Se recomienda ingresar valores válidos para evitar interrupciones.
 - La lista admite valores duplicados y la eliminación solo afecta la primera coincidencia encontrada.
+
+
+Enlace a video explicando el codigo:
+https://youtu.be/ZBvP5PADhOE
